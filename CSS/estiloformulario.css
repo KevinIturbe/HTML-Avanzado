@@ -1,0 +1,11 @@
+h6{color: white;}
+
+.rojo{border: red 2px solid;}
+
+.cuadro{background-color: green;
+line-height: 30px;
+    border: 7px solid rgb(132, 132, 248);
+border-radius: 5px; }
+
+.formulario{height: 200;
+width: auto;}

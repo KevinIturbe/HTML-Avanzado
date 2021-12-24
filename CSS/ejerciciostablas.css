@@ -1,0 +1,17 @@
+body{background-color: cyan;}
+table{border: 1px solid black;
+margin: 0 auto;}
+
+th{border: 1px solid black;}
+
+td{border: 1px solid black;}
+
+.negro{background-color: black;}
+
+.amarillo{background-color: yellow;}
+
+.naranja{background-color: tomato;}
+
+.subrayado{color: red;}
+
+h1{text-align: center;}
